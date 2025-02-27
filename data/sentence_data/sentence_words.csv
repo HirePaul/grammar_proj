@@ -1,0 +1,15 @@
+Sentence,Word,WordOrder,BroadClass,DifficultyGroup,Captitalized,Before,After
+1,She,1,noun,1,1,0,0
+1,gave,2,verb,1,0,0,0
+1,some,3,adj,1,0,0,0
+1,tasty,4,adj,1,0,0,0
+1,bread,5,noun,1,0,0,0
+1,to,6,prep,1,0,0,0
+1,Johnny,7,noun,1,1,0,2
+2,Jane,1,noun,1,,0,0
+2,listened,2,verb,1,0,0,0
+2,to,3,prep,1,0,0,0
+2,the,4,adj,1,0,0,0
+2,speech,5,noun,1,0,0,0
+2,with,6,prep,1,0,0,0
+2,wonder,7,noun,1,0,0,2
