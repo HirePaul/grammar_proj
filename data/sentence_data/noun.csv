@@ -1,7 +1,0 @@
-SentenceWord,Subject,DO,IO,OP,Pronoun,Plural,Proper,GerundPhrase,ParticiplePhrase,InfinitivePhrase
-1She,1,0,0,0,1,0,0,0,0,0
-1bread,0,1,0,0,0,0,0,0,0,0
-1Johnny,0,0,0,1,0,1,0,0,0,0
-2Jane,1,0,0,0,0,0,1,0,0,0
-2speech,0,0,0,1,0,0,0,0,0,0
-2wonder,0,0,0,1,0,0,0,0,0,0
